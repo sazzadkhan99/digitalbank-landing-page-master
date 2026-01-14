@@ -522,7 +522,6 @@ p.desc{
 }
 footer{
   flex-direction: row;
-  align-items: center;
   justify-content: space-between;
   padding-block: 2.5rem 2.8rem;
   padding-inline: 10rem;
@@ -562,3 +561,4 @@ footer .logo img{
   font-size: .87rem;
 }
 }
+
