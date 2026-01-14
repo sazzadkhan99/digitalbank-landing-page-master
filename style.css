@@ -395,7 +395,7 @@ header .req_btn{
 }
 .hero_area{
   background-image: url(images/bg-intro-desktop.svg);
-  max-height: 40.8rem;
+  max-height: 39.4rem;
   background-size: auto;
   background-position: top -50.5vh left 43.4vw;
   flex-direction: row;
@@ -522,7 +522,6 @@ p.desc{
 }
 footer{
   flex-direction: row;
-  align-items: center;
   justify-content: space-between;
   padding-block: 2.5rem 2.8rem;
   padding-inline: 10rem;
@@ -562,7 +561,6 @@ footer .logo img{
   font-size: .87rem;
 }
 }
-
 
 
 
