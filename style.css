@@ -75,7 +75,7 @@ nav ul{
   opacity: 0;
    box-shadow: 0 80px 180px 80px var(--shadowColor);
 }
-#menu.show_menu ul{
+.show_menu ul{
   transform: scaleY(1);
   pointer-events: auto;  
   opacity: 1;
@@ -91,8 +91,8 @@ nav ul li a:hover{
   transition: .1s;
 }
 .menu_icon{
-  width: 24px;
-  height: 12px;
+  width: 1.5rem;
+  height: .75rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -150,7 +150,7 @@ main{
   background-image: url("images/bg-intro-mobile.svg");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: top -64px left 0;
+  background-position: top -4rem left 0;
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
@@ -182,7 +182,7 @@ main{
   max-width: 91.5%;
   margin-inline: auto; 
   position: relative;
-  margin-block-start: -120px;
+  margin-block-start: -7.5rem;
 }
 
 .features_area{
@@ -434,8 +434,7 @@ header .req_btn{
   padding-inline: 0;
   gap: 1rem;  
 }
-.features_header{
-  width: 100%;      
+.features_header{   
   width: 78%;
 }
 .features_header h2{
