@@ -397,7 +397,7 @@ header .req_btn{
   background-image: url(images/bg-intro-desktop.svg);
   max-height: 40.8rem;
   background-size: auto;
-  background-position: top -28vh left 43.4vw;
+  background-position: top -30vh left 43.4vw;
   flex-direction: row;
   align-items: center;
   justify-content: center;
@@ -561,6 +561,7 @@ footer .logo img{
   font-size: .87rem;
 }
 }
+
 
 
 
